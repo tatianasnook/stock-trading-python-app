@@ -1,4 +1,4 @@
-### Generating `tickers.csv`
+###Generating `tickers.csv`
 This file is excluded from version control (`.gitignore`).  
 To generate it, create a `.env` file with your Polygon.io API key:
 

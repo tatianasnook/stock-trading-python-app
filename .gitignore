@@ -1,3 +1,5 @@
 .venv/
 .env
 tickers.csv
+cron_log.txt
+__pycache__/
